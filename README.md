@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&color=2563EB&center=true&vCenter=true&width=380&lines=Hey+There!+👋;I'm+Nadeem+Khan" />
   </a>
 </h1>
----
 
 ## 👨‍💻 About Me
 
