@@ -19,9 +19,9 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Python, PHP (OOP/MVC), MySQL, Redis, Docker, Alpine.js |
-| **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3, LESS |
-| **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva, HeidiSQL |
+| **Backend** | Python, PHP (OOP/MVC), MySQL |
+| **Frontend** | JavaScript, jQuery, Ajax, HTML5, CSS3, LESS |
+| **Workflow** | Git, GitHub, Bitbucket, Jira |
 
 ## 📫 Connect With Me
 
